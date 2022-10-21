@@ -1,11 +1,11 @@
 Estilizar a cor de fundo do seu site como o css
 body{
-background-color:rgb(36, 31, 31) ;
+background-color:rgb(202, 235, 18) ;
 }
 
 Estilizar o título principal do seu site
  h1{
-color:black ;
+color:rgb(0, 0, 0) ;
 font-family:Verdana, Geneva, Tahoma, sans-serif ;
 background:rgb(179, 20, 20) ;
 }
