@@ -1,16 +1,16 @@
-Estilizar a cor de fundo do seu site como o css
+
 body{
 background-color:rgb(252, 0, 0) ;
 }
 
-Estilizar o título principal do seu site
+
  h1{
 color:rgb(0, 0, 0) ;
 font-family:Verdana, Geneva, Tahoma, sans-serif ;
 background:rgb(226, 227, 236) ;
 }
 
-Estilizar os parágrafos
+
 p{
 color:black ;
 font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
