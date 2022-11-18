@@ -12,9 +12,9 @@ background:rgb(11, 25, 221) ;
 
 Estilizar os parágrafos
 p{
-color: ;
-font-family: ;
-font-size: ;
-background: ;
+color:black ;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+font-size:20px ;
+background:blue ;
 }
 
