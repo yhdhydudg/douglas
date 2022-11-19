@@ -7,7 +7,7 @@ background-color:rgb(236, 72, 212) ;
  h1{
 color:rgb(0, 0, 0) ;
 font-family:Verdana, Geneva, Tahoma, sans-serif ;
-background:rgb(226, 227, 236) ;
+background:rgba(226, 227, 236, 0.137) ;
 text-align: center;
 }
 
